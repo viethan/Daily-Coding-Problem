@@ -1,6 +1,7 @@
 # Daily Coding Problem
 
 These are my solutions for the problems sent by dailycodingproblem.com
+I searched for the problems on leetcode and that's where I solved them.
 
 ---
 
