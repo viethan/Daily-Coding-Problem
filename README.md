@@ -24,7 +24,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[Solution](solutions/2.py)
+[Solution](./2.py)
 
 ---
 
@@ -46,7 +46,7 @@ node = Node('root', Node('left', Node('left.left')), Node('right'))
 assert deserialize(serialize(node)).left.left.val == 'left.left'
 ```
 
-[Solution](solutions/3.py)
+[Solution](./3.py)
 
 ---
 
@@ -58,7 +58,7 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 
 You can modify the input array in-place.
 
-[Solution](solutions/4.py)
+[Solution](./4.py)
 
 ---
 
@@ -68,5 +68,5 @@ An XOR linked list is a more memory efficient doubly linked list. Instead of eac
 
 If using a language that has no pointers (such as Python), you can assume you have access to get_pointer and dereference_pointer functions that converts between nodes and memory addresses.
 
-[Solution](solutions/6.c)
+[Solution](./6.c)
 
